@@ -37,5 +37,5 @@ uvicorn main:app --reload
 http://localhost:8000/docs
 
 ## 📬 Contact
-- LinkedIn: [your linkedin url]
-- GitHub: [your github url]
+- LinkedIn: www.linkedin.com/in/adityajha49
+
