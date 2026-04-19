@@ -38,4 +38,4 @@ http://localhost:8000/docs
 
 ## 📬 Contact
 - LinkedIn: www.linkedin.com/in/adityajha49
-
+- for any queries email me - mnipt49265@gmail.com
